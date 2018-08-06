@@ -8,8 +8,8 @@ A list of essential links useful for iOS development.
 
 
 ## UICollectionView
-  ### Custom Layout
-    ### Flow Layout
-    ### Grid Layout
+ - Custom Layout
+    - Flow Layout
+    - ### Grid Layout
     
 
